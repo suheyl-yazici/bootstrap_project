@@ -1,1 +1,3 @@
-# bootstrap_project
+Bootstrap-5 kullanarak örnek bir web sitesi tasarlamaya çalıştım.Navbar,carousel,card,grid  gibi hazır yapılar ve 3.parti parti kütüphanelerinden font awesome iconlarıyla fslightbox'ı kullandım.Responsive olmasına özellikle dikkat ettiğim projeye aşağıdaki linkten ulaşabilirsiniz...
+
+Proje Linki: https://suheyl-yazici.github.io/bootstrap_project/
